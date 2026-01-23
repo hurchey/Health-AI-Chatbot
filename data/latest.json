@@ -1,0 +1,27 @@
+{
+  "current_step": "patient",
+  "patient_info": {
+    "full_name": null,
+    "date_of_birth": null
+  },
+  "insurance_info": {
+    "payer_name": null
+  },
+  "medical_info": {
+    "reason_for_visit": null
+  },
+  "demographics_info": {
+    "address_line": null,
+    "formatted": null,
+    "place_id": null,
+    "is_valid": false,
+    "missing_fields": [],
+    "awaiting_confirmation": false,
+    "pending_formatted": null,
+    "pending_place_id": null
+  },
+  "appointment_info": {
+    "provider": null,
+    "datetime": null
+  }
+}

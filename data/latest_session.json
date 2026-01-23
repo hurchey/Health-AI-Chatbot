@@ -1,0 +1,27 @@
+{
+  "current_step": "appointment",
+  "patient": {
+    "full_name": "Eric Hurchey",
+    "date_of_birth": "2003-06-14"
+  },
+  "insurance": {
+    "payer_name": "Blue Cross Health"
+  },
+  "medical": {
+    "chief_complaint": "Back Pain"
+  },
+  "demographics": {
+    "raw_address_line": "291 Crown Ave, New York NY 10312",
+    "formatted": "291 Crown Avenue, Woodrow, NY 10312-2939, USA",
+    "place_id": "ChIJC5qZCx5LwokRFi1hJt7gPq0",
+    "is_valid": true,
+    "missing_fields": [],
+    "awaiting_confirmation": false,
+    "pending_formatted": null,
+    "pending_place_id": null
+  },
+  "appointment": {
+    "provider": "Dr. Marcus Lee",
+    "datetime": "2026-01-30T11:15:00-05:00"
+  }
+}
