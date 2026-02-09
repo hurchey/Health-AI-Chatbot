@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "assort-health-takehome"
+name = "health-ai-chat-agent"
 version = "0.1.0"
-description = "Assort Health AI Chat Agent Take Home Assignment"
+description = "Health AI Chat Agent"
 authors = ["Eric Hurchey <eric.hurchey@gmail.com>"]
 readme = "README.md"
 package-mode = false
